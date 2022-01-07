@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 git reset <commit>: thay đổi file content, không thay đổi commit
 git reset --hard <commit>: thay đổi file content va commit
 git reset --soft <commit>: thay đổi commit nhưng vẫn giữ lại file content (recommend)
-=======
-avs
-commit 1
->>>>>>> 72ebb51 (commit 1)
